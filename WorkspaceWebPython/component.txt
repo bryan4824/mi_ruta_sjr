@@ -1,0 +1,11 @@
+rx.callout(
+                "Antes de empezar a navegar recuerda leer las instrucciones a " \
+                "continuacion para una mejor experiencia.",
+                icon="info",
+            )
+
+    #opcion 1
+    PRIMARY = "#EA5B6F"
+    SECONDARY = "#FF894F"
+    BACKGROUND = "#77BEF0"#"#F8B259"
+    CONTENT= "#FFCB61"
